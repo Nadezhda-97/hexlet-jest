@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Nadezhda-97/hexlet-jest/issues"
   },
-  "homepage": "https://github.com/Nadezhda-97/hexlet-jest#readme"
+  "homepage": "https://github.com/Nadezhda-97/hexlet-jest#readme",
+  "devDependencies": {
+    "jest": "^29.1.1"
+  }
 }
